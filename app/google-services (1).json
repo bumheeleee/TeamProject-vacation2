@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "2035410769",
+    "firebase_url": "https://carousel-b752e.firebaseio.com",
+    "project_id": "carousel-b752e",
+    "storage_bucket": "carousel-b752e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2035410769:android:dd96d6654aa8a0c3489570",
+        "android_client_info": {
+          "package_name": "com.professionalandroid.apps.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2035410769-gg2plq0d23smroa4849h8jp14csj0a1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdnVSeUhg-b_OBdNnwf8edDKkiRcPRiFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2035410769-gg2plq0d23smroa4849h8jp14csj0a1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
